@@ -4,7 +4,7 @@ class Hugind < Formula
   # REPLACE THE URL BELOW with your actual GitHub Release asset link
   url "https://github.com/netdur/hugind/releases/download/v0.1.2/hugind-macos-arm64.tar.gz"
   # REPLACE THE SHA BELOW with the one generated in Step 1
-  sha256 "98c536eccd0b952225036bff7b6a10f1ba6554ce8b44db1f133780733094d523"
+  sha256 "6a8649d0048b2def0741b0c5dab790145d44dbdfab5a23435e36ba898e540423"
   version "0.1.2"
 
   def install
