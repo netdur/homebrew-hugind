@@ -2,10 +2,10 @@ class Hugind < Formula
   desc "Dart-based CLI for LLMs"
   homepage "https://github.com/netdur/hugind"
   # REPLACE THE URL BELOW with your actual GitHub Release asset link
-  url "https://github.com/netdur/hugind/releases/download/v0.11.0/hugind-macos-arm64.tar.gz"
+  url "https://github.com/netdur/hugind/releases/download/v0.11.1/hugind-macos-arm64.tar.gz"
   # REPLACE THE SHA BELOW with the one generated in Step 1
-  sha256 "54cc7c9cf264dee1fb37532c8df2c4f5bf636e5c84b73ad7db43ba73fcbea174"
-  version "0.11.0"
+  sha256 "737f4d61a2821db418f812549016e6a26449e098791cf8bfea37157030b12e35"
+  version "0.11.1"
 
   def install
     # libexec is a private directory where we put all files (binary + libs + config)
